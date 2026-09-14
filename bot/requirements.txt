@@ -1,0 +1,5 @@
+python-telegram-bot==20.7
+deep-translator==1.11.4
+Pillow==10.2.0
+qrcode==7.4.2
+requests==2.31.0
